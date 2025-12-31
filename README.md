@@ -32,3 +32,15 @@ This repository serves as a personal archive for assignments, lab exercises (Dee
 - Counters & Registers
 
 ---
+---
+
+## 💭 Reflection
+
+### 💡 What I Gained
+This course demystified how computers "think" at the lowest hardware level. I developed a strong grasp of **Boolean Algebra** and **Logic Gates**, eventually learning to design complex sequential circuits like counters and registers. Beyond the technical knowledge, the class atmosphere was a highlight. **Laughing at Mr. Ahmad Fariz's "dad jokes"** became a staple of our lectures, effectively lightening the mood and making even the most complex topics like **K-Maps** and **Flip-Flops** enjoyable and easier to digest.
+
+### 📈 Areas for Improvement
+Designing complex **sequential logic circuits** was the most challenging aspect for me. Understanding timing diagrams and state transitions required significant focus. Moving forward, I plan to spend more time practicing with simulation tools like **Deeds** to visualize circuit behaviors in real-time and better anticipate potential logic errors before implementation.
+
+### 📝 Final Thoughts
+**Digital Logic (SECR1013)** was an incredibly rewarding subject. I am deeply grateful to **Mr. Ahmad Fariz** not just for the laughs, but for his **expertise in helping students solve complex problems**. Whenever I felt stuck on a difficult circuit design, he had a knack for breaking the problem down into simple, logical steps. His unique blend of humor and deep technical knowledge made this fundamental course one of my favorites.
